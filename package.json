@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://mightymoin.github.io/expenses-tracker-react/",
+  "homepage":"https://sanakhan-web.github.io/expenses-tracker-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
